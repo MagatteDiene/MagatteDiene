@@ -21,10 +21,7 @@ I'm a **software developer** and final-year engineering student specializing in 
 Currently working as a **Fullstack Developer (Backend Focus)** at HTSOFT Senegal, I contribute to building scalable web applications, integrating AI-powered solutions, and optimizing database architectures. I thrive on solving complex technical challenges and delivering high-quality software that makes an impact.
 
  **What drives me:**
-- Building intelligent systems with **Machine Learning** and **AI**
-- Crafting clean, maintainable code with modern frameworks
-- Collaborating with cross-functional teams to ship impactful products
-- Continuous learning and staying ahead of emerging technologies
+ Building intelligent systems, writing clean code, and solving real-world problems with modern technologies.
 
 ---
 
@@ -157,53 +154,14 @@ Crowdfunding platform connecting project holders with investors.
 
 ---
 
-##  Development Activity
+##  A Note on My GitHub Activity
 
 <div align="center">
 
->  **Most of my work is in private repositories**  
-> My GitHub stats don't fully reflect my daily development activity as I primarily work on:
-> - Private enterprise projects at **HTSOFT Senegal**
-> - Company-owned repositories with production code
-> - Feature branches and internal development workflows
-
-###  Real-World Impact
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Private_Repos-Active-success?style=for-the-badge&logo=github&logoColor=white" />
-      <br><b>Enterprise Projects</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Daily_Commits-High-blue?style=for-the-badge&logo=git&logoColor=white" />
-      <br><b>Consistent Development</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Production_Code-Deployed-orange?style=for-the-badge&logo=rocket&logoColor=white" />
-      <br><b>Live Applications</b>
-    </td>
-  </tr>
-</table>
-
-###  Skills & Contributions Beyond GitHub Stats
-
-- ✅ **Active fullstack developer** contributing to production systems daily
-- ✅ Developed **multiple enterprise applications** (SIRH, GESTIMMO)
-- ✅ Integrated **AI/ML solutions** in real-world business applications
-- ✅ Maintained and optimized **large-scale databases** in production environments
-- ✅ Collaborated on **critical backend architectures** serving real users
+### Most of my work is in private repositories
+My public GitHub stats don't reflect my daily work on private enterprise projects at HTSOFT Senegal, where I contribute to production systems, integrate AI solutions, and maintain large-scale applications.
 
 </div>
-
----
-
-##  What I'm Currently Working On
-
--  Building scalable web applications with **Laravel** and **React**
--  Deepening my knowledge in **AI/ML integration** for real-world applications
--  Looking to collaborate on **open-source projects** and innovative tech solutions
--  Ask me about **fullstack development**, **Laravel**, **AI integration**, or **system design**
 
 ---
 
