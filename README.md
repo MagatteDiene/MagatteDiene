@@ -170,7 +170,6 @@ My public GitHub stats don't reflect my daily work on private enterprise project
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-papemagattendiayediene%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:papemagattendiayediene@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-%2B221%2077%20616%2039%2077-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+221776163977)
   [![Location](https://img.shields.io/badge/Location-Dakar%2C%20Senegal-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Dakar,Senegal)
   
 </div>
