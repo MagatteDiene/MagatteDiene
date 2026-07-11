@@ -90,7 +90,6 @@ Currently working as a **Fullstack Developer (Backend Focus)** at HTSOFT Senegal
 
 **Engineering Technology Degree in Computer Science** (2024 - 2026)
 *École Supérieure Polytechnique (ESP), Dakar*
-Graduated · Thesis: **SamaVoie**, a hybrid RAG system for academic orientation guidance
 
 **Higher National Diploma (HND) in Computer Science** (2022 - 2024)
 *École Supérieure Polytechnique (ESP), Dakar*
